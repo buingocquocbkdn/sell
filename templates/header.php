@@ -31,10 +31,8 @@
 
 									</li>
 										<ul class="ul1">
-									        <li><a href="info_doreamon.html">Truyện tranh</a></li>
-									        <li><a href="info_doreamon.html">Truyện bộ</a></li>
-									        <li><a href="info_doreamon.html">Truyện dài</a></li>
-									        <li><a href="info_doreamon.html">Truyện hay</a></li>
+									        <li><a href="#">Tuyển dụng</a></li>
+									        <li><a href="#">Liên hệ</a></li>
 								        </ul>
 								</ul>
 							</div>
